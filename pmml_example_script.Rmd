@@ -1,0 +1,20 @@
+PMML Example
+========================================================
+
+Following directions from:
+http://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&ved=0CFcQFjAE&url=http%3A%2F%2Fjournal.r-project.org%2F2009-1%2FRJournal_2009-1_Guazzelli%2Bet%2Bal.pdf&ei=tkINUae2AfSW0QXipYHoBg&usg=AFQjCNFR6gohML4U3-joTLPCHx2GdedeAA&sig2=T-WgoeRXgBPj-Wlmr5Vwgg&bvm=bv.41867550,d.d2k
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring web pages (click the **MD** toolbar button for help on Markdown).
+
+When you click the **Knit HTML** button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r fig.width=7, fig.height=6}
+plot(cars)
+```
+
